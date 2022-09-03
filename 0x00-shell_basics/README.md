@@ -1,1 +1,1 @@
-long listing
+listing even the hidden files
