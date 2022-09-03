@@ -1,1 +1,1 @@
-a script that prints a cureent working directry
+listing the current directory
