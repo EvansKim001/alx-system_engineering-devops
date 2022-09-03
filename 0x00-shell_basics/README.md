@@ -1,1 +1,1 @@
-listing the current directory
+back to the home directory
