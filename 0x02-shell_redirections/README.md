@@ -1,2 +1,1 @@
-printing hello world
-smiley face printing
+print hello world
