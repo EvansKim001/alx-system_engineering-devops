@@ -1,1 +1,1 @@
-printing confused smiley face
+showing the cotent of a file
